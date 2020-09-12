@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Break time reminder application.",
     "homepage": "https://hovancik.net/stretchly",
     "license": {
         "identifier": "Freeware",
         "url": "https://github.com/hovancik/stretchly/blob/master/LICENSE"
     },
-    "url": "https://github.com/hovancik/stretchly/releases/download/v1.0.0/stretchly-1.0.0-win.7z",
-    "hash": "bfd55b2d22a1d6afd2768ce2be609bfa5c04fd0aaec4a2a7591bdbd3f3cc5e96",
+    "url": "https://github.com/hovancik/stretchly/releases/download/v1.1.0/stretchly-1.1.0-win.7z",
+    "hash": "4007412bac29b82950d4a434a8759db2065c9144c942210275d0f47a1f0cc005",
     "bin": "stretchly.exe",
     "shortcuts": [
         [
