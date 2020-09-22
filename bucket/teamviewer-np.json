@@ -1,5 +1,5 @@
 {
-    "version": "15.9.4",
+    "version": "15.10.5",
     "description": "Software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.",
     "homepage": "https://www.teamviewer.com/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.teamviewer.com/en/eula/"
     },
     "url": "https://dl.teamviewer.com/download/TeamViewer_Setup.exe#/setup.exe",
-    "hash": "360f6fde163d5a0532e45f70772bf5e50a394e5b1d4c9277ca70e7299bd7ae06",
+    "hash": "3533583640b45b51cdde21f12c6389a7cdeb28e603c2289208f28c76c6b15365",
     "installer": {
         "script": [
             "Invoke-ExternalCommand \"$dir\\setup.exe\" -ArgumentList @('/S', '/norestart') -RunAs | Out-Null",
